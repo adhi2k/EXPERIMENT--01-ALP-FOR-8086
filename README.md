@@ -4,7 +4,7 @@ Name : ADHITHYA K
 
 Reg no : 2305002001
 
-Date of experiment :
+Date of experiment : 21/10/2024
 
 
 
